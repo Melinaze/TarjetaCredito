@@ -1,0 +1,16 @@
+.far{
+   cursor: pointer; 
+}
+
+button{
+    background-color: green;
+}
+
+.green-icon{
+    color: #198754;
+}
+
+.red-icon{
+    color: red;
+}
+
